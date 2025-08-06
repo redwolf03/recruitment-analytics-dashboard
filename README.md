@@ -1,4 +1,5 @@
 # Recruitment Analytics Dashboard
+## Future Enhancements- Generate **Pie charts and trend analysis**- Auto-generate a **PDF report** for management- Integrate with **Google Sheets** for live updates- Build a **Streamlit web dashboard** for real-time visualization
 
 This project automates **recruitment data analysis** by reading candidate data from Excel and generating:
 
@@ -26,5 +27,9 @@ This project automates the process by:
 - **Matplotlib** → Data visualization (bar/pie charts)
 - **MS Excel** → Tracker template and output file
 
-## Project Structure
+## 👨‍💻 Author **Mohammed Arief** 
+Recruitment Specialist| Exploring 
+**Python, Automation & Data Visualization**
+[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/redwolf03)
+⭐ If you find this project useful, give it a star on GitHub!
 
